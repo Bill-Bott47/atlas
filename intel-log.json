@@ -1,0 +1,36 @@
+{
+  "runs": [
+    {
+      "date": "2026-03-08",
+      "client": "Pharaoh",
+      "tier_reached": 2,
+ed": ["web_search", "def      "sources_checkillama", "coingecko", "pharaoh.exchange", "docs.pharaoh.exchange"],
+      "novel_findings": 1,
+      "sources_that_returned_nothing": ["client_twitter", "client_discord", "client_blog"],
+      "confidence": "MEDIUM",
+      "finding_summary": "Pangolin launched perpetual futures on Avalanche (Feb 2026). PHAR down -9.7% this week (underperforming AVAX +5.8%). Blackhole crossed $20M swap fees."
+    }
+  ],
+  "source_performance": {
+    "web_search": "productive",
+    "defillama": "partial (TVL data not accessible via slug)",
+    "coingecko": "productive",
+    "client_twitter": "no_results",
+    "client_discord": "not_checked",
+    "client_blog": "no_results"
+  },
+  "client_cadence": {
+    "Pharaoh": {
+      "avg_tier_reached": 2,
+      "last_novel_find": "2026-03-08"
+    },
+    "Benqi": {
+      "avg_tier_reached": null,
+      "last_novel_find": null
+    },
+    "Magic Eden": {
+      "avg_tier_reached": null,
+      "last_novel_find": null
+    }
+  }
+}
